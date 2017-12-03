@@ -7,7 +7,7 @@ set vb t_vb=
 set ts=2 sts=2 sw=2 expandtab
 syntax on
 colorscheme monokai
-command! Status echo "All systems are go!"
+command! Status echo "Todos os sistemas preparados!"
 
 if has("autocmd")
   filetype plugin indent on
