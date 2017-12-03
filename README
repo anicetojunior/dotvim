@@ -14,3 +14,5 @@ Alterar para o diretorio `~/.vim` e atualizar os submodulos:
     git submodule update
 
 Quando solicitar: git remote set-url origin https://github.com/anicetojunior/dotvim.git
+
+Referência: http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
